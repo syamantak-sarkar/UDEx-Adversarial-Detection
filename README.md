@@ -27,7 +27,6 @@
 > *Under Review*  
 >  
 > 📄 [Paper Link (coming soon)](https://arxiv.org/abs/XXXX.XXXXX)  
-> 📁 [Dataset & Models (Google Drive Link)](https://drive.google.com/...)  
 > 🔗 [Project Website](https://syamantak-sarkar.github.io/UDEx-Adversarial-Detection/) *(optional)*
 
 ---
