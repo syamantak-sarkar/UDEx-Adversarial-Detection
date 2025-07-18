@@ -24,7 +24,7 @@
 
 > **Seeing Through Threats: (UDEx) Universal Adversarial Detection through Explainability**  
 > Syamantak Sarkar, Nirmal Joseph, Sudhish N George, Ameer P M, Kiran Raja  
-> *Under Review / EUSIPCO 2025 Accepted*  
+> *Under Review*  
 >  
 > 📄 [Paper Link (coming soon)](https://arxiv.org/abs/XXXX.XXXXX)  
 > 📁 [Dataset & Models (Google Drive Link)](https://drive.google.com/...)  
