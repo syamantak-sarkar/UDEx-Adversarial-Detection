@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**UDEx** is a lightweight, model-agnostic framework that leverages *low-rank approximation* and *explainability* (via Grad-CAM) to detect adversarial examples. It is designed to be training-free and scalable across diverse datasets and architectures—including CNNs and Vision Transformers—making it ideal for real-world deployment, especially on resource-constrained devices.
+**ADEx** is a lightweight, model-agnostic framework that leverages *low-rank approximation* and *explainability* (via Grad-CAM) to detect adversarial examples. It is designed to be training-free and scalable across diverse datasets and architectures—including CNNs and Vision Transformers—making it ideal for real-world deployment, especially on resource-constrained devices.
 
 <p align="center">
   <img src="fig1.pdf" width="600">
