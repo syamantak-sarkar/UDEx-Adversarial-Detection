@@ -1,6 +1,6 @@
 
 
-# UDEx: Universal Adversarial Detection through Explainability
+# ADEx: Adversarial Detection through Explainability
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
